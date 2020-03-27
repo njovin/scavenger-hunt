@@ -1,4 +1,12 @@
 ## Welcome to GitHub Pages
+In the office you will find your next clue is being protected by a circle of hands.
+
+Hurry!  You'll have to check the back of Dad's truck before your next clue gets hauled away.
+
+If a Kangaroo and Tigger lived at Jack's house where would they like to play?
+
+Every day somebody in a blue shirt comes to Jack's house in a little white car. Maybe he left you something today.
+
 
 You can use the [editor on GitHub](https://github.com/njovin/scavenger-hunt/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

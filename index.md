@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+[a relative link](1-jovin.md)
+
 In the office you will find your next clue is being protected by a circle of hands.
 
 Hurry!  You'll have to check the back of Dad's truck before your next clue gets hauled away.
